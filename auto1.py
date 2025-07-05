@@ -1,3 +1,6 @@
+#Automação de planilha CSV, extraída de um software para uma planilha consolidada em Excel.
+#Atualização diária dessa planilha para ser enviada por e-mail
+
 import os
 from datetime import datetime
 import pandas as pd
