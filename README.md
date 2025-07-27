@@ -1,8 +1,8 @@
-# 🤖 Automações em Python
+#  Automações em Python
 
 Este repositório contém um conjunto de automações criadas com Python para otimizar tarefas repetitivas e operacionais. São scripts voltados à produtividade, organização de arquivos, manipulação de planilhas e extração de dados da web.
 
-## 🔧 Funcionalidades
+##  Funcionalidades
 
 - 📊 **Automação de Planilhas CSV**
   - Converte arquivos CSV extraídos de um sistema em uma planilha Excel consolidada.
